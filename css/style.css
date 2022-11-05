@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-image: url(../img/office.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+} 
+
+.btn{
+    width: 270px;
+    height: 60px;
+    box-sizing: border-box;
+    margin-left: 400px;
+    
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 0px;
+    
+}
+
+.navbar{
+    background: rgba(31, 39, 50, 0.81);
+}
+
+.fff{
+    display: flex;
+    margin-top: 50px;
+    font-size: 22px;
+}
+
+.contacts{
+   margin-left: 400px;
+   font-size: 15px;
+
+}
+
+.email{
+    margin-left: 40px;
+    font-size: 15px;
+}
